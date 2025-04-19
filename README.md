@@ -1,2 +1,3 @@
 # vibeui
-VibeUI is a clean, responsive UI component library for Laravel and Livewire using TailwindCSS.
+
+VibeUI is a clean, responsive Laravel/Livewire UI component library that uses TailwindCSS.
