@@ -1,6 +1,6 @@
 {
     "name": "mikail/vibeui",
-    "description": "A clean UI component library for Laravel and Livewire using TailwindCSS.",
+    "description": "A clean, responsive Laravel/Livewire UI component library that uses TailwindCSS.",
     "type": "library",
     "autoload": {
         "psr-4": {
