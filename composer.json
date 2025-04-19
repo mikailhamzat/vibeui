@@ -1,1 +1,30 @@
+{
+    "name": "mikail/vibeui",
+    "description": "A clean UI component library for Laravel and Livewire using TailwindCSS.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "VibeUI\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "VibeUI\\Tests\\": "tests/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "VibeUI\\VibeUIServiceProvider"
+            ]
+        }
+    },
+    "require": {
+        "php": "^8.0",
+        "illuminate/support": "^9.0",
+        "blade-ui-kit/blade-icons": "^1.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
 
